@@ -17,4 +17,4 @@ endpoints:
   shutdown:
     enabled: false
 info:
-  version: @project.version@
+  version: '@project.version@'
