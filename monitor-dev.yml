@@ -20,6 +20,6 @@ turbine:
     cluster-name-expression: new String('default') #集群名称
 receiver:
   mobiles:
-    - 15118163878
+    - 151181638789
   emails: |
     2086149908@126.com
