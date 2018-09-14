@@ -4,8 +4,8 @@ spring:
   rabbitmq:
       host: localhost
       port: 5672
-      username: fangp
-      password: '000000'
+      username: 
+      password: 
   boot:
       admin:
         turbine:
@@ -20,6 +20,6 @@ turbine:
     cluster-name-expression: new String('default') #集群名称
 receiver:
   mobiles:
-    - 17034642119
+    - 15118163878
   emails: |
-    fp2952@163.com
+    2086149908@126.com

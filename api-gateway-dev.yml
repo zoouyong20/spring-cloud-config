@@ -5,8 +5,8 @@ spring:
   rabbitmq:
     host: localhost
     port: 5672
-    password: '000000'
-    username: fangp
+    password:  
+    username:  
 
 zuul:
   routes:
